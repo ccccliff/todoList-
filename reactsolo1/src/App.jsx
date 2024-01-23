@@ -93,7 +93,7 @@ function App() {
       {todoBox}
       </div>
 
-      <div className='done'>Done!🏆{completedTodoBox}</div>
+      <div className='done'>Done!!!!🏆 {completedTodoBox}</div>
       </div>
     </div>
   )
